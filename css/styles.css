@@ -454,7 +454,7 @@ section#settings .iphone-settings {
   position: relative;
 }
 section#screenshots {
-  background: white;
+  background: #555555;
 }
 section#screenshots .section-heading {
   color: #999999;
